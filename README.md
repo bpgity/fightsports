@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -70,3 +71,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 =======
 # fightsports
 >>>>>>> d99de1fd0121377e94ab951d36086aa296511eb1
+=======
+# fightsports
+>>>>>>> f314400c2652739013408c4a3ac092b3ca72400e
