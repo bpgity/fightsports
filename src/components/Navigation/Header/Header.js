@@ -29,9 +29,6 @@ class Header extends Component {
         <AppBar position='fixed'>
           <Toolbar>
             <img src={backArrow} alt='arrow' />
-            {/*  <Typography variant='h10' className={classes.title}>
-              BACK TO FIGHTSPORTS.TV
-            </Typography> */}
             <Button color='inherit'>BACK TO FIGHTSPORTS.TV</Button>
             <Typography variant='h6' className={classes.title}></Typography>
             <img src={logo} alt='logo' className={classes.logo} />
